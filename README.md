@@ -1,6 +1,6 @@
 # Advanced Line Following and Obstacle Avoiding Robot
 
-<img src="line%20folling.jpg" alt="Line Following Robot" width="600">
+<img src="line%20folling.jpg" alt="Line Following Robot" width="600" height="400">
 
 An Arduino-based robot that can follow a black line on a white surface while intelligently avoiding obstacles in its path.
 
